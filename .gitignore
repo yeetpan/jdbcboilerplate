@@ -1,0 +1,30 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build output
+/out/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Maven/Gradle (if added later)
+target/
+build/
+
+# JDBC connector jars (if manually added, not via Maven/Gradle)
+mysql-connector-j-*.jar
