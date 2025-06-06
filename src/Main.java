@@ -1,4 +1,5 @@
 import java.sql.*;
+//This class uses Statement Interface for executing queries.
 // do not import everything always.
 // use .env files always.
 public class Main {
